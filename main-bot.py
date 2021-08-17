@@ -72,6 +72,14 @@ def formozila():
     time.sleep(1)
     browser_moz.find_element_by_xpath('/html/body/div[3]/header/div/section[2]/nav/div/ul[1]/li[1]/div/ul[3]/div/div/div[1]/li[2]/a/span[@class="label"]').click()
 
+ 
+╭━━━╮╱╱╱╱╱╱╭╮╱╭━━╮╱╱╱╭╮
+┃╭━╮┃╱╱╱╱╱╱┃┃╱┃╭╮┃╱╱╭╯╰╮
+┃╰━━┳╮╭┳━╮╭┫╰━┫╰╯╰┳━┻╮╭╯
+╰━━╮┃┃┃┃╭╮╋┫╭╮┃╭━╮┃╭╮┃┃
+┃╰━╯┃╰╯┃┃┃┃┃╰╯┃╰━╯┃╰╯┃╰╮Coded By Bayu
+╰━━━┻━━┻╯╰┻┻━━┻━━━┻━━┻━╯
+    
 print('1. Are u user chrome??')
 print('2. Are u user firefox??')
 
