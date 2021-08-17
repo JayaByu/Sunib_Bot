@@ -1,3 +1,5 @@
+<img src="https://github.com/JayaByu/Sunib_Bot/blob/main/forsunib.png">
+
 # Usage in Archlinux or pacman package
 ```
 sudo pacman -S python-selenium 
