@@ -33,7 +33,6 @@ def forchrome():
         i = browser_chr.find_element_by_xpath('/html/body/div[5]/div/div/div/div/div/div[2]/button[@class="button button-primary"]').click()
         time.sleep(3)
     
-    
     browser_chr.find_element_by_xpath('//*[@class="expand-menu expand-item-menu"]').click()
     browser_chr.find_element_by_xpath('/html/body/div[3]/header/div/section[2]/nav/div/ul[1]/li[1]/div/ul/div/div/div[1]/li[7]/a/span[@class="label"]').click()
     time.sleep(1)
