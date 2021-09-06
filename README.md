@@ -13,7 +13,7 @@ sudo pip install selenium
 
 ## change executable path according to the location of your webdriver but in this example I use geckodriver for firefox
 
-```
+``` 
 (executable_path=r'/home/artemis/sec_engginier/bot-autologin/geckodriver')
 ```
 
