@@ -4,7 +4,7 @@
 ```
 sudo pacman -S python-selenium 
 ```
-
+ 
 # Usage Debian base or apt package
 ```
 sudo apt install pip
